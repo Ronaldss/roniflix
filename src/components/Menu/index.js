@@ -9,7 +9,7 @@ function Menu() {
         <img className="Logo" src={Logo} alt="Roniflix logo" />
       </a>
       <ButtonLink className="ButtonLink" href="/">
-        Prop ok ok
+        Novo vídeo
       </ButtonLink>
     </nav>
   );
