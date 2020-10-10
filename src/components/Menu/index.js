@@ -10,7 +10,7 @@ function Menu() {
         <img className="Logo" src={Logo} alt="Roniflix logo" />
       </a>
       <Button as="a" className="ButtonLink" href="/">
-        Outro Filho
+        Outro Vídeo
       </Button>
     </nav>
   );
