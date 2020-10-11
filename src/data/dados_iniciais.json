@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Os Hebreus e o monoteismo judáico",
+          "url": "https://www.youtube.com/watch?v=9l9m_WtJztk&t=3s"
         },
         {
           "titulo": "SEO com React",
@@ -26,8 +26,8 @@
           "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Configurando Vlan em uma rede básica.",
+          "url": "https://www.youtube.com/watch?v=6ev7Rdr1KE0&feature=youtu.be"
         },
         {
           "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
@@ -40,7 +40,7 @@
         {
           "titulo": "Base para aprender os frameworks",
           "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+        }
       ]
     },
     {
@@ -66,7 +66,7 @@
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+        },
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
