@@ -1,8 +1,8 @@
 * {
   box-sizing: border-box;
-  font-family: "Press Start 2P";
+  font-family: "Roboto", sans-serif;
 }
-/* "Roboto", sans-serif,  */
+
 :root {
   --primary: #2a7ae4;
   --black: #000000;
